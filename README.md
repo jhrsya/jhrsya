@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhrsya
 - 👀 I’m interested in NLP and AI for drug.
 - 🌱 I’m currently learning conversational recommender systems and molecular conformation generation.
-- 💞️ I’m looking to collaborate on the above two filed.
+- 💞️ I’m looking to collaborate on the above two fileds.
 - 📫 How to reach me: my email hcw1564244868@gmail.com
 
 <!---
